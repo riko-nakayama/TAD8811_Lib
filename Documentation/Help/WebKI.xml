@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AlarmRest メソッド" Url="html/85e95f6a-3b82-0191-986a-6d98cd131a0f.htm" />
+  <HelpKINode Title="AsciiToDec メソッド" Url="html/10a87544-2499-d15b-dd08-312840a7932b.htm" />
+  <HelpKINode Title="CloseDevice メソッド" Url="html/1ee4d8ea-f38a-7503-9301-1213a73224e9.htm" />
+  <HelpKINode Title="GetFeedback メソッド" Url="html/0a76edb8-3647-b71b-0a8e-8586ec74db3b.htm" />
+  <HelpKINode Title="HardStop メソッド" Url="html/1378da6d-4f5b-9b30-f4a8-5d2da4ed87b7.htm" />
+  <HelpKINode Title="HexToAscii メソッド" Url="html/31592855-c110-97e1-c233-60d9eba6c796.htm" />
+  <HelpKINode Title="InitTAD8811 メソッド" Url="html/76f7c958-9845-e924-08c3-f2893c6bf050.htm" />
+  <HelpKINode Title="IsTimerLimit メソッド" Url="html/692785c7-b5e2-95e5-916c-0ed26c7b9ec6.htm" />
+  <HelpKINode Title="IsTimerLimitMiliSecond メソッド" Url="html/782f4d0c-1874-e76d-63db-d9367af7c57f.htm" />
+  <HelpKINode Title="IsUsbConnect プロパティ" Url="html/23368a24-d9af-34ba-a08c-a670ad0b960f.htm" />
+  <HelpKINode Title="MAIN_TIME フィールド" Url="html/9f76b038-3e1e-b254-bbd5-fe697f1982dc.htm" />
+  <HelpKINode Title="OpenDevice メソッド" Url="html/ae62315a-6400-410a-258a-9cfeb56842ef.htm" />
+  <HelpKINode Title="PositionReset メソッド" Url="html/65423acb-cf23-55c7-8849-275ca91447dd.htm" />
+  <HelpKINode Title="ReadParam メソッド" Url="html/4452a29a-a8da-8918-a84f-b099a1c2db37.htm" />
+  <HelpKINode Title="ReadParamAll メソッド" Url="html/8955326a-b613-5ce3-7724-30cb9bb95133.htm" />
+  <HelpKINode Title="RequestCommandCode メソッド" Url="html/9c0538b1-8b0a-61c9-cac8-d39a2ce87b01.htm" />
+  <HelpKINode Title="ServoOff メソッド" Url="html/3f4b858f-ea77-54ec-cbb8-6a6f96c21ebd.htm" />
+  <HelpKINode Title="ServoOn メソッド" Url="html/a81f24ea-16af-4b96-2402-8c27e5a71753.htm" />
+  <HelpKINode Title="SetDirection メソッド" Url="html/7f8635d1-3091-60ff-0d0b-4d8e66505677.htm" />
+  <HelpKINode Title="SetNow メソッド" Url="html/9db1591e-6bca-186c-5bb1-27f15c76df44.htm" />
+  <HelpKINode Title="SetNowMiliSecond メソッド" Url="html/a0ae3d9b-2df5-aa56-837d-66e31dfd15a4.htm" />
+  <HelpKINode Title="SmoothStop メソッド" Url="html/8b109e2e-b88f-e682-5d53-8410bdbdd4f5.htm" />
+  <HelpKINode Title="StartJog メソッド" Url="html/b0d42c44-8736-c30c-6cdd-2691bd6368ce.htm" />
+  <HelpKINode Title="StartProfile メソッド" Url="html/d1c1e9e1-206f-8935-5732-d1be780f3e1c.htm" />
+  <HelpKINode Title="TAD8811_Cmd クラス" Url="html/1c96a52b-d58a-af98-569e-00c626a1b6ce.htm" />
+  <HelpKINode Title="TAD8811_Cmd クラス、プロパティ" Url="html/37411319-f756-eabf-495d-b7e98e7fe4ec.htm" />
+  <HelpKINode Title="TAD8811_Cmd クラス、メソッド" Url="html/24ca3af6-7539-26fd-7f3f-0c15e2a8f8e4.htm" />
+  <HelpKINode Title="TAD8811_Cmd.AlarmRest メソッド" Url="html/85e95f6a-3b82-0191-986a-6d98cd131a0f.htm" />
+  <HelpKINode Title="TAD8811_Cmd.CloseDevice メソッド" Url="html/1ee4d8ea-f38a-7503-9301-1213a73224e9.htm" />
+  <HelpKINode Title="TAD8811_Cmd.GetFeedback メソッド" Url="html/0a76edb8-3647-b71b-0a8e-8586ec74db3b.htm" />
+  <HelpKINode Title="TAD8811_Cmd.HardStop メソッド" Url="html/1378da6d-4f5b-9b30-f4a8-5d2da4ed87b7.htm" />
+  <HelpKINode Title="TAD8811_Cmd.InitTAD8811 メソッド" Url="html/76f7c958-9845-e924-08c3-f2893c6bf050.htm" />
+  <HelpKINode Title="TAD8811_Cmd.IsUsbConnect プロパティ" Url="html/23368a24-d9af-34ba-a08c-a670ad0b960f.htm" />
+  <HelpKINode Title="TAD8811_Cmd.OpenDevice メソッド" Url="html/ae62315a-6400-410a-258a-9cfeb56842ef.htm" />
+  <HelpKINode Title="TAD8811_Cmd.PositionReset メソッド" Url="html/65423acb-cf23-55c7-8849-275ca91447dd.htm" />
+  <HelpKINode Title="TAD8811_Cmd.ReadParam メソッド" Url="html/4452a29a-a8da-8918-a84f-b099a1c2db37.htm" />
+  <HelpKINode Title="TAD8811_Cmd.ReadParamAll メソッド" Url="html/8955326a-b613-5ce3-7724-30cb9bb95133.htm" />
+  <HelpKINode Title="TAD8811_Cmd.RequestCommandCode メソッド" Url="html/9c0538b1-8b0a-61c9-cac8-d39a2ce87b01.htm" />
+  <HelpKINode Title="TAD8811_Cmd.ServoOff メソッド" Url="html/3f4b858f-ea77-54ec-cbb8-6a6f96c21ebd.htm" />
+  <HelpKINode Title="TAD8811_Cmd.ServoOn メソッド" Url="html/a81f24ea-16af-4b96-2402-8c27e5a71753.htm" />
+  <HelpKINode Title="TAD8811_Cmd.SetDirection メソッド" Url="html/7f8635d1-3091-60ff-0d0b-4d8e66505677.htm" />
+  <HelpKINode Title="TAD8811_Cmd.SmoothStop メソッド" Url="html/8b109e2e-b88f-e682-5d53-8410bdbdd4f5.htm" />
+  <HelpKINode Title="TAD8811_Cmd.StartJog メソッド" Url="html/b0d42c44-8736-c30c-6cdd-2691bd6368ce.htm" />
+  <HelpKINode Title="TAD8811_Cmd.StartProfile メソッド" Url="html/d1c1e9e1-206f-8935-5732-d1be780f3e1c.htm" />
+  <HelpKINode Title="TAD8811_Cmd.WaitHoming メソッド" Url="html/5ab746a7-1393-350c-737b-c858172d5d18.htm" />
+  <HelpKINode Title="TAD8811_Cmd.WaitInpositon メソッド" Url="html/9930ef60-b9ec-f8fd-2816-acf6c8aedc19.htm" />
+  <HelpKINode Title="TAD8811_Cmd.WriteParam メソッド" Url="html/cbe37cb2-6d31-52ae-3852-14995877600a.htm" />
+  <HelpKINode Title="TAD8811_Lib 名前空間" Url="html/47ae5ddf-6329-c0ba-d995-2688b42c793b.htm" />
+  <HelpKINode Title="TAD8811_Lib.TAD8811_Cmd クラス" Url="html/1c96a52b-d58a-af98-569e-00c626a1b6ce.htm" />
+  <HelpKINode Title="TAD8811_Lib.TAD8811_Tool クラス" Url="html/6987f070-cdec-d328-b7ee-2f89c8ab7cb4.htm" />
+  <HelpKINode Title="TAD8811_Tool クラス" Url="html/6987f070-cdec-d328-b7ee-2f89c8ab7cb4.htm" />
+  <HelpKINode Title="TAD8811_Tool クラス、フィールド" Url="html/a3153073-247d-8dc7-ef1a-2bfec7ff52d7.htm" />
+  <HelpKINode Title="TAD8811_Tool クラス、メソッド" Url="html/928d3dbf-cefa-e4ab-4202-d1ec9bfd9f88.htm" />
+  <HelpKINode Title="TAD8811_Tool.AsciiToDec メソッド" Url="html/10a87544-2499-d15b-dd08-312840a7932b.htm" />
+  <HelpKINode Title="TAD8811_Tool.HexToAscii メソッド" Url="html/31592855-c110-97e1-c233-60d9eba6c796.htm" />
+  <HelpKINode Title="TAD8811_Tool.IsTimerLimit メソッド" Url="html/692785c7-b5e2-95e5-916c-0ed26c7b9ec6.htm" />
+  <HelpKINode Title="TAD8811_Tool.IsTimerLimitMiliSecond メソッド" Url="html/782f4d0c-1874-e76d-63db-d9367af7c57f.htm" />
+  <HelpKINode Title="TAD8811_Tool.MAIN_TIME フィールド" Url="html/9f76b038-3e1e-b254-bbd5-fe697f1982dc.htm" />
+  <HelpKINode Title="TAD8811_Tool.SetNow メソッド" Url="html/9db1591e-6bca-186c-5bb1-27f15c76df44.htm" />
+  <HelpKINode Title="TAD8811_Tool.SetNowMiliSecond メソッド" Url="html/a0ae3d9b-2df5-aa56-837d-66e31dfd15a4.htm" />
+  <HelpKINode Title="TAD8811_Tool.USB_TIME フィールド" Url="html/cf07d050-877e-1475-55d0-8ec5b28c7752.htm" />
+  <HelpKINode Title="USB_TIME フィールド" Url="html/cf07d050-877e-1475-55d0-8ec5b28c7752.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/0ce5dc14-2e46-40f3-bdf1-0960caec0d22.htm" />
+    <HelpKINode Title="history" Url="html/7d1397c0-8e56-44a3-bee7-74186d48b3d8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WaitHoming メソッド" Url="html/5ab746a7-1393-350c-737b-c858172d5d18.htm" />
+  <HelpKINode Title="WaitInpositon メソッド" Url="html/9930ef60-b9ec-f8fd-2816-acf6c8aedc19.htm" />
+  <HelpKINode Title="Welcome" Url="html/42eb936b-21ca-4a84-954a-c35c9b7c9a34.htm" />
+  <HelpKINode Title="WriteParam メソッド" Url="html/cbe37cb2-6d31-52ae-3852-14995877600a.htm" />
+</HelpKI>
